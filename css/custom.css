@@ -13,3 +13,24 @@ h1, .h1, h2, .h2 {
     background-color: var(--bs-body-bg);
     border-color: var(--bs-body-bg);
 }
+
+#flourish1, #flourish2 {
+    width: 5in;
+    background-color: var(--bs-body-bg);
+    border-color: var(--bs-body-bg);
+}
+
+.table-custom {
+    --bs-table-bg: var(--bs-body-bg);
+    color: var(--bs-body-color);
+}
+
+.table-left-column{
+    text-align: right;
+    padding-right: 5px;
+}
+
+.table-right-column{
+    text-align: left;
+    padding-left: 5px;
+}
