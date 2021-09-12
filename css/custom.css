@@ -1,6 +1,7 @@
 :root {
     --bs-body-color: #FCCC95;
     --bs-body-bg: #540D30;
+    --bs-body-font-family: 'Open Sans', sans-serif;
 }
 
 h1, .h1, h2, .h2 {
