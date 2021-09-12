@@ -6,3 +6,10 @@
 h1, .h1, h2, .h2 {
     font-family: 'Alex Brush', cursive;
 }
+
+#ganapati {
+    max-width: 2in;
+    max-height: 2in;
+    background-color: var(--bs-body-bg);
+    border-color: var(--bs-body-bg);
+}
