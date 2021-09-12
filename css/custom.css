@@ -1,0 +1,8 @@
+:root {
+    --bs-body-color: #FCCC95;
+    --bs-body-bg: #540D30;
+}
+
+h1, .h1, h2, .h2 {
+    font-family: 'Alex Brush', cursive;
+}
