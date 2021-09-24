@@ -8,6 +8,11 @@ h1, .h1, h2, .h2 {
     font-family: 'Alex Brush', cursive;
 }
 
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+}
+
 #ganapati {
     max-width: 2in;
     max-height: 2in;
